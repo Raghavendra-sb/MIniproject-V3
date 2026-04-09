@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+dataset/
+downloaded_data/
+new_dataset/
+*.keras
+venv/
+.env
