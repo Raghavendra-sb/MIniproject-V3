@@ -147,5 +147,4 @@ Traditional methods for diagnosing skin diseases are prone to inaccuracies and d
 
 ---
 
-## Acknowledgments
-This project was guided by [Dr. Yogeesha C B] at the Department of Artificial Intelligence and Machine Learning, Mangalore Institute of Technology & Engineering (MITE).
+
